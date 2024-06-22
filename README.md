@@ -1,4 +1,4 @@
-# Hello (Xin Chào), I'm Thu 🇻🇳🌎
+# Hello (Xin Chào), I'm Thư 🇻🇳🌎
 
 I'm a data enthusiast deeply interested in machine learning, data journalism, product analytics, and data science for social good. I've been studying and living in 3 countries so far 🇺🇸🇰🇷🇩🇪. Here are what I'm doing during this summer (2024):
 
