@@ -6,4 +6,4 @@ I'm a data enthusiast deeply interested in machine learning, data journalism, pr
 - 👩‍💻 I'm doing product research + design @ [Edgur](https://www.linkedin.com/company/edgur/) - a crowd-sourced video-sharing platform designed exclusively for learning.
 - 🌱 I'm writing about statistics, machine learning, economics, and everything technical-related on [Medium](https://medium.com/@thuinanutshell).
 - ⛰️ I grew up in the Central Highlands of Vietnam where I nurtured my love for nature.
-- 📚 I set a goal to read more this summer @ [goodreads](https://www.goodreads.com/user/show/174519058)
+- 📚 I'm reading a lot this summer @ [goodreads](https://www.goodreads.com/user/show/174519058)
