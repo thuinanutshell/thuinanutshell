@@ -5,4 +5,5 @@ I'm a junior studying data science & software engineering @ [Minerva University]
 - 👩‍💻 Ignite Fellow @ [AI4ALL](https://ai-4-all.org/ai4all-ignite/) building a computer vision project to detect skin cancer.
 - 📚 Analyzing data & developing efficient scheduling algorithm @ [Minerva Academic Team](https://www.minerva.edu/undergraduate/)
 - 📊 Learning Bayesian statistics [here](https://github.com/thuinanutshell/learn-stats).
+- 🌱 Curiosity Projects
 
