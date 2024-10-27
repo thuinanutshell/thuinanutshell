@@ -6,4 +6,4 @@ I'm a junior studying data science & applied mathematics @ [Minerva University](
 - 👩‍💻 Ignite Fellow @ [AI4ALL](https://ai-4-all.org/ai4all-ignite/) building a computer vision project for medical image data analysis.
 - 📚 Learn how to build and implement ML models from scratch [learn-ml](https://github.com/thuinanutshell/learn-ml)
 
-Outside of work, I enjoy solving logic puzzles, playing the ukulele, chess, and Weiqi, writing, cooking Vietnamese food, and doing origami. The picture was taken in my hometown, Dak Nong, which I hold dear in my heart. 
+Outside work, I enjoy solving logic puzzles, playing the ukulele, chess, and Weiqi, writing, and doing origami. The picture was taken in my hometown, Dak Nong, which I hold dear to my heart. 
