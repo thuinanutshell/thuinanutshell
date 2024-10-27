@@ -5,4 +5,4 @@ I'm a junior studying data science & applied mathematics @ [Minerva University](
 - 🤖 Developing a 3D virtual simulator for concurrent robots @ [UAI](https://uai.edu.ar/)
 - 👩‍💻 Ignite Fellow @ [AI4ALL](https://ai-4-all.org/ai4all-ignite/) building a computer vision project to detect skin cancer.
 
-Outside of work, I enjoy solving logic puzzles, playing the ukulele, chess, and Weiqi, writing, cooking Vietnamese food, and doing origami. The picture was taken in my hometown Dak Nong which I holds dear in my heart. 
+Outside of work, I enjoy solving logic puzzles, playing the ukulele, chess, and Weiqi, writing, cooking Vietnamese food, and doing origami. The picture was taken in my hometown, Dak Nong, which I hold dear in my heart. 
