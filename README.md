@@ -1,4 +1,5 @@
 # Hello (Xin Chào), I'm Thư 🇻🇳🌎
+![dnnn](https://github.com/user-attachments/assets/e02f8a75-97e7-4541-af39-ea393f9f9d50)
 
 I'm a junior studying data science & applied mathematics @ [Minerva University](https://www.minerva.edu/). I'm deeply interested in machine learning. I'm looking for **research opportunities** in machine learning, computational linguistics, and artificial intelligence. I have lived and studied in 4 countries so far 🇺🇸🇰🇷🇩🇪🇦🇷. I'm an ex-SWE Fellow @ [Headstarter](https://headstarter.co/#testimonials-section). What I'm currently working on:
 - 🤖 Developing a 3D virtual simulator for concurrent robots @ [UAI](https://uai.edu.ar/)
