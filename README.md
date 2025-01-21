@@ -9,7 +9,7 @@ I'm a junior studying data science & applied mathematics @ [Minerva University](
 - Research Assistant
 
 ### 🤖 ML Projects
-- Vietnamese Handwritten Classification
+- [Vietnamese Handwritten Classification](https://github.com/thuinanutshell/handwritten-vietnamese-recognition)
 - Skin Cancer Detection
 - Sunset Generator (GAN)
 
