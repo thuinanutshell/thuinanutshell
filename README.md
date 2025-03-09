@@ -1,6 +1,6 @@
 ## Hello, I'm Thu 👋
 
-I love data and simulation : )
+I love working w/ data and simulation : )
 
 <!--
 **thuinanutshell/thuinanutshell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
