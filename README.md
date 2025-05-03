@@ -1,4 +1,4 @@
-## Hello, I'm Thu 👋
+## Hello, I'm Thư 👋
 
 i love data, algorithms, simulations, and machine learning :)
 <!--
