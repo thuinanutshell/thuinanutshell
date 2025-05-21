@@ -1,6 +1,6 @@
 ## Hello, I'm Thư 👋
 
-i love data, algorithms, simulations, and machine learning :)
+i tinker and play with data, algorithms, simulations, and machine learning :)
 <!--
 **thuinanutshell/thuinanutshell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
