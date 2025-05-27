@@ -3,11 +3,11 @@
 I tinker and play with data, algorithms, simulations, and machine learning :)
 
 ### 🌱 Projects I've Built
-- Web App: Flashcard App, Digital Journal, Technical Interview Assistant
-- Data Viz: DSA Visualizer, Cafes Around The World, ML Explainer
-- Machine Learning: GPT-2 From Scratch, Handwritten Classification
-- Simulations: Nature Simulations, Cellular Automata, Networks
-- Fun: Chat with Philosophers
+- **Web App**: Flashcard App, Digital Journal, Technical Interview Assistant
+- **Data Viz**: DSA Visualizer, Cafes Around The World, ML Explainer
+- **Machine Learning**: GPT-2 From Scratch, Handwritten Classification
+- **Simulations**: Nature Simulations, Cellular Automata, Networks
+- **Fun**: Chat with Philosophers
 <!--
 **thuinanutshell/thuinanutshell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
