@@ -1,6 +1,7 @@
 ## Hello, I'm Thư 👋
 
 🔭 I tinker and play with data and software :)
+
 🌱 I’m currently learning data journalism, building scalable web apps, and machine learning/AI systems
 <!--
 **thuinanutshell/thuinanutshell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
