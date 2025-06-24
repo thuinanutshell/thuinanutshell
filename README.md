@@ -2,7 +2,7 @@
 
 🔭 I tinker and play with data and software :)
 
-🌱 I’m currently learning about data journalism, building scalable web apps, and machine learning/AI systems
+🌱 I’m currently learning about building scalable web apps, and machine learning/AI systems
 <!--
 **thuinanutshell/thuinanutshell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
