@@ -2,7 +2,7 @@
 
 🔭 I tinker and play with data and software :)
 
-🌱 I’m currently learning about building scalable software, data and ML/AI systems
+🌱 I’m super passionate about building scalable software, data, and ML/AI systems
 <!--
 **thuinanutshell/thuinanutshell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
