@@ -1,6 +1,6 @@
 ## Hello, I'm Thư 👋
 
-🔭 I tinker and play with data, product and software :)
+🔭 I tinker and play with data and software :)
 
 🌱 I’m currently learning about building scalable web apps, and machine learning/AI systems
 <!--
