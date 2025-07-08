@@ -6,7 +6,7 @@
 
 🌱 Passionate about scalable software, data infra, and ML/AI systems
 
-💬 My fav algo is backtracking because it reminds me that: *"I do, I fail, I go back and try something else."*
+💬 My fav algo is backtracking because it reminds me to *"go do, fail, go back and try something else."*
 
 😄 When I'm not coding, you can see me doing origami, reading horror books, or doing things I suck at :)
 <!--
