@@ -1,12 +1,4 @@
-## Hello, I'm Thư 👋
 
-🔭 I tinker and play with data and software
-
-✨ I love benchmarking stuff
-
-🌱 Passionate about scalable software, data infra, and ML/AI systems
-
-😄 When I'm not coding, you can see me doing origami, reading horror books, or doing things I suck at :)
 <!--
 **thuinanutshell/thuinanutshell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
